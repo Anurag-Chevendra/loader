@@ -1,9 +1,9 @@
 # loader
 a loader to bypass stuff.
-## execution 
+## Execution with Loader
 https://github.com/user-attachments/assets/dfc99aad-7b4c-4378-94a7-f54217641113
 
-## execution without loader
+## Execution without loader
 https://github.com/user-attachments/assets/e42847ef-3596-4815-abb6-0702b9d7f873
 
 ## How to Compile
